@@ -10,7 +10,7 @@ run Application.java
 
 A greeting rest app at http://localhost:8080/greeting with basic json response.
 
-Generated with hypermedia links to it's structure:
+Generated with hypermedia links on it's structure:
 	
 "_links":{
     "self":{
