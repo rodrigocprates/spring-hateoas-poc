@@ -1,5 +1,7 @@
 ## Spring HATEOAS example
 
+See http://projects.spring.io/spring-hateoas/.
+
 ### Build & Run
 
 mvn install
